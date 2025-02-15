@@ -5,7 +5,8 @@ Welcome to my GitHub. I build things, break them, and then act like it was all p
 ## 🚀 About Me  
 - **Ongoing Quest:** Creating a **form builder**—because apparently, forms are the pinnacle of human-computer interaction.  
 - **Philosophy:** The code compiles, therefore I am.  
-- **Fun Fact:** I once spent three hours debugging, only to discover I forgot a semicolon.  
+- **Fun Fact:** I once tried to center a div and ended up questioning my entire existence.
+- **Cats:** Big fan. They judge me, but I respect that.
 
 ---
 
